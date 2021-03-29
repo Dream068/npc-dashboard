@@ -1,0 +1,78 @@
+@font-face {
+  font-family: 'Futura';
+  src: local('Futura'),
+    url(../assets/font/Futura.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Futura-Bold';
+  src: local('Futura-Bold'),
+    url(../assets/font/Futura-Bold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Futura-Bold-Italic';
+  src: local('Futura-Bold-Italic'),
+    url(../assets/font/Futura-Bold-Italic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Futura-Book';
+  src: local('Futura-Book'),
+    url(../assets/font/Futura-Book.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Futura-Book-Italic';
+  src: local('Futura-Book-Italic'),
+    url(../assets/font/Futura-Book-Italic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Futura-Extra-Black';
+  src: local('Futura-Extra-Black'),
+    url(../assets/font/Futura-Extra-Black.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Futura-Heavy';
+  src: local('Futura-Heavy'),
+    url(../assets/font/Futura-Heavy.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Futura-Light';
+  src: local('Futura-Light'),
+    url(../assets/font/Futura-Light.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'futura-light-bt';
+  src: local('futura-light-bt'),
+    url(../assets/font/futura-light-bt.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Futura-Light-Italic';
+  src: local('Futura-Light-Italic'),
+    url(../assets/font/Futura-Light-Italic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Futura-Medium';
+  src: local('Futura-Medium'),
+    url(../assets/font/Futura-Medium.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Futura-Medium-Italic';
+  src: local('Futura-Medium-Italic'),
+    url(../assets/font/Futura-Medium-Italic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'unicode.futurab';
+  src: local('unicode.futurab'),
+    url(../assets/font/unicode.futurab.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'unicode.futurabb';
+  src: local('unicode.futurabb'),
+    url(../assets/font/unicode.futurabb.ttf) format('truetype');
+}
